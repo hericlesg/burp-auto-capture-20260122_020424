@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2200
+Expires: Thu, 22 Jan 2026 05:12:23 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 22 Jan 2026 05:12:23 GMT
+Set-Cookie: AWSALB=1smdxs6rfUUz+smetdp3DHq2zXzhcm7QIuTBvcqhI5eqJ/8XidOa0hYTgqFU85goGf7+Oin3UG4K00dzg92xN5c1ns8lvneayKVKonb/xY5rjeZa5kXymbJb9iwU; Expires=Thu, 29 Jan 2026 05:12:23 GMT; Path=/
+Set-Cookie: AWSALBCORS=1smdxs6rfUUz+smetdp3DHq2zXzhcm7QIuTBvcqhI5eqJ/8XidOa0hYTgqFU85goGf7+Oin3UG4K00dzg92xN5c1ns8lvneayKVKonb/xY5rjeZa5kXymbJb9iwU; Expires=Thu, 29 Jan 2026 05:12:23 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=148
+Server-Timing: origin; dur=202
+Server-Timing: ak_p; desc="1769058743469_399702863_1354425506_34920_5355_5_0_15";dur=1
+
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6Ijk5YzQyNTg4LTEzYWQtNGE2Yi05OWYxLTZjOTdjNjg2NDIyMCIsImV4cCI6MTc2OTA1OTA0M30.M-W0hwnz4Pwgh-pHuVNZSPPBjY4DDgYEE9QEGspe1fE","flow":[{"id":484,"order":1,"type":13,"title":"<p class=\"p1\">Bem-vindo &agrave; ZeroUm</p>","isCompleted":false,"imageUrl":"/assets/images/WhatsApp-Image-2025-12-30-at-11.26.40-(1).jpeg","cpf":{"type":3,"label":"CPF","placeholder":"000.000.000-00","required":true},"terms":{"label":"<p class=\"p1\">Aceito os <a href=\"info/terms\" target=\"_blank\" rel=\"noopener\">Termos e Condi&ccedil;&otilde;es</a>, a <a href=\"info/policy\" target=\"_blank\" rel=\"noopener\">Pol&iacute;tica de Privacidade</a> e a <a href=\"info/amlandkyc\" target=\"_blank\" rel=\"noopener\">Pol&iacute;tica de PLD/FTP &amp; KYC</a>.</p>","required":true},"address":null,"city":null,"zip":null,"country":null,"state":null,"district":null,"phoneNumber":{"label":"Telefone","required":true,"placeholder":"Telefone","mask":"(00) 0 0000-0000"},"phoneNumberPrefix":"+55","email":{"label":"Email","required":true,"placeholder":"ex. seunome@gmail.com"},"repeatPassword":null,"password":{"label":"Senha","placeholder":null,"required":true,"validations":{"minLength":{"label":"Comp. Min. 6 min","rule":6},"maxLength":{"label":"Comp. Max. 14","rule":14},"requireAtLeastLetter":{"label":"Requer pelo menos uma letra!","rule":1},"requireAtLeastNumber":null,"requireAtLeastSpecialCharacter":null,"requireAtLeastUpperCase":{"label":"Requer letras maiÃºsculas e minÃºsculas","rule":false}}},"button":{"label":"Continuar"},"help":null}],"cancelModal":{"title":"<p>Voc&ecirc; tem certeza?</p>","description":"<p class=\"p1\">Falta pouco para cria uma conta na ZeroUm!.</p>","continueButton":{"label":"Validar e Criar Conta"},"cancelButton":{"label":"Cancelar Registro"},"startKycButton":{}},"successModal":{"title":"<p>ð Parab&eacute;ns, {{name}}!</p>","description":"<p class=\"p1\">Tudo pronto para voc&ecirc; explorar e aproveitar tudo o que a ZeroUm tem a oferecer!</p>","supportLinkLabel":"Precisa de ajuda para comeÃ§ar?","continueButton":{"label":"ComeÃ§ar a jogar"},"cancelButton":{},"startKycButton":{},"redirectPage":4},"totalSteps":1}
