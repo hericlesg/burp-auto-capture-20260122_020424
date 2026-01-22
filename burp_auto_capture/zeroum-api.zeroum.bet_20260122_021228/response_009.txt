@@ -1,0 +1,23 @@
+HTTP/1.1 101 Switching Protocols
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Sec-WebSocket-Accept: 8huvucorWipFYyaYZd3JRJKrrJ8=
+Expires: Thu, 22 Jan 2026 05:12:10 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 22 Jan 2026 05:12:10 GMT
+Set-Cookie: AWSALB=wYnSrq5K179GVughknL/Jk7QWFGk7RA2oPBHkEvngYBB27TgJeJQfeFFJ4bOx6D5DbpjWXFASLKA6mDW1W436m8H2xcVvdYBDasA8uTHm0iWP/XkaX9HnsLwQd1V; Expires=Thu, 29 Jan 2026 05:12:10 GMT; Path=/
+Set-Cookie: AWSALBCORS=wYnSrq5K179GVughknL/Jk7QWFGk7RA2oPBHkEvngYBB27TgJeJQfeFFJ4bOx6D5DbpjWXFASLKA6mDW1W436m8H2xcVvdYBDasA8uTHm0iWP/XkaX9HnsLwQd1V; Expires=Thu, 29 Jan 2026 05:12:10 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=139
+Server-Timing: origin; dur=20
+Upgrade: websocket
+Connection: Upgrade
+Server-Timing: ak_p; desc="1769058730379_399702863_1354402382_15874_4948_11_18_-";dur=1
+
