@@ -1,0 +1,13 @@
+GET /websocket/services?master&domain=www.zeroum.bet&version=1.3.332 HTTP/1.1
+Host: api5.smartico.ai
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+Upgrade: websocket
+Origin: https://www.zeroum.bet
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: vDG+rey+nwd+aPwn91g0kw==
+
