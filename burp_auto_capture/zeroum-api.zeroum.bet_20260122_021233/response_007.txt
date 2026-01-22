@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2276
+Cache-Control: max-age=30
+Date: Thu, 22 Jan 2026 05:12:09 GMT
+Set-Cookie: AWSALB=2TYRsuEIFc71TysQL8G6tZFAPpzd2DipCzzKtSaQFcWsWn6KpEUa530epSEpHt7cf/CPDARHN3piGvEdaeUD9OhkAtVPGlSU+V4tC15fT5x551TGSNy76Ig+79Mb; Expires=Thu, 29 Jan 2026 05:12:09 GMT; Path=/
+Set-Cookie: AWSALBCORS=2TYRsuEIFc71TysQL8G6tZFAPpzd2DipCzzKtSaQFcWsWn6KpEUa530epSEpHt7cf/CPDARHN3piGvEdaeUD9OhkAtVPGlSU+V4tC15fT5x551TGSNy76Ig+79Mb; Expires=Thu, 29 Jan 2026 05:12:09 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=147
+Server-Timing: origin; dur=22
+Server-Timing: ak_p; desc="1769058729556_399702863_1354401022_16877_5024_5_0_15";dur=1
+
+[{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2025-12-28T16:12:33.565Z","p":"Alexandra","ba":0.0000,"wa":133600.0000,"i":"/assets/images/products/Thumb-FORTUNERABBIT-PG.webp"},{"ps":2005288,"pn":"Fiesta Fortune","s":"fiestafortune","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-01T16:40:37.081Z","p":"MATHEUS","ba":8000.0000,"wa":135850.0000,"i":"/assets/images/products/pragmaticplay/gb_fiesta-fortune-_420x560_3005.webp","m":17.0},{"ps":35,"pn":"Fortune Tiger","s":"fortunetiger","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-09T17:43:52.178Z","p":"Marcos","ba":0.0000,"wa":125000.0000,"i":"/assets/images/products/Thumb-FORTUNETIGER-PG.webp"},{"ps":2005651,"pn":"Rico Rabbit","s":"ricorabbit","prs":"popok","prn":"PopOk","bt":"2026-01-18T17:18:40.523Z","p":"Samile","ba":200.0000,"wa":123200.0000,"i":"/assets/images/products/Rico-Rabbit.png","m":616.0},{"ps":2005288,"pn":"Fiesta Fortune","s":"fiestafortune","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-12T18:12:14.18Z","p":"MATHEUS","ba":100.0000,"wa":112800.0000,"i":"/assets/images/products/pragmaticplay/gb_fiesta-fortune-_420x560_3005.webp","m":1128.0},{"ps":75,"pn":"Midas Fortune","s":"midasfortune","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-21T23:44:59.698Z","p":"Ana","ba":0.0000,"wa":108500.0000,"i":"/assets/images/products/Thumb-Midas-Fortune.png"},{"ps":2005288,"pn":"Fiesta Fortune","s":"fiestafortune","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-13T06:20:12.084Z","p":"MATHEUS","ba":100.0000,"wa":106100.0000,"i":"/assets/images/products/pragmaticplay/gb_fiesta-fortune-_420x560_3005.webp","m":1061.0},{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-03T15:05:04.526Z","p":"Fernanda","ba":0.0000,"wa":103300.0000,"i":"/assets/images/products/Thumb-FORTUNERABBIT-PG.webp"},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T00:38:33.221Z","p":"Ana","ba":0.0000,"wa":100000.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp"},{"ps":32,"pn":"Fortune Mouse","s":"fortunemouse","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-14T15:27:31.996Z","p":"MAGNUN","ba":0.0000,"wa":100000.0000,"i":"/assets/images/products/Thumb-FORTUNEMOUSE-Caleta.png"}]
