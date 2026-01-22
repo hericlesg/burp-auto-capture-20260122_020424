@@ -1,0 +1,17 @@
+GET /api/games/seometadata?path=/ HTTP/2
+Host: zeroum-api.zeroum.bet
+Sec-Ch-Ua: 
+Accept: application/json, text/plain, */*
+X-Timezone: -3
+Sec-Ch-Ua-Mobile: ?0
+X-Language-Id: pt
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+Sec-Ch-Ua-Platform: ""
+Origin: https://www.zeroum.bet
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.zeroum.bet/
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
