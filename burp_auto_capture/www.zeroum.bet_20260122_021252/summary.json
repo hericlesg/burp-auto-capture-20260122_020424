@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_021252", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20260122_021252/request_001.txt", 
+      "url": "https://www.zeroum.bet:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20260122_021252/response_001.txt", 
+      "timestamp": 1769058728990
+    }
+  ], 
+  "host": "www.zeroum.bet", 
+  "total_requests": 1
+}
